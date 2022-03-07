@@ -1,0 +1,12 @@
+Decrypt the meaning of code below:
+
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.from_dict.html
+
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.transpose.html
+
+Reference:
+https://medium.com/geekculture/the-facebook-and-twitter-scraping-guide-495e2fb17b0b
+
+https://medium.com/analytics-vidhya/facebook-post-scraping-and-text-analytics-9eea10563a3a
+
+https://pypi.org/project/facebook-scraper/
