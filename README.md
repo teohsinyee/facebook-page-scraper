@@ -20,3 +20,8 @@ Desired output:
 - number of shares
 - post url
 - post type (video/pictures/text)
+
+Project status (Updated:10-Mac-2022)
+- Unable to extract mass amount of post & unable to retrieved certain fields
+- Did not work as what documentation promised
+- Action: Has raised an issue at the related Repo, waiting for resolution
