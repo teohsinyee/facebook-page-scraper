@@ -30,3 +30,6 @@ Project status (Updated:11-Mac-2022)
 - Received a suggestion for issue raised
 - Waiting for implementation
 
+Project status (Updated:21-Mac-2022)
+- Implement the suggestion (Add a delay at the beginning of the code)
+- Result still in testing
