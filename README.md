@@ -33,3 +33,6 @@ Project status (Updated:11-Mac-2022)
 Project status (Updated:21-Mac-2022)
 - Implement the suggestion (Add a delay at the beginning of the code)
 - Result still in testing
+
+Project status (Updated:22-Mac-2022)
+- Fixing Python env issue (Failed to run)
