@@ -21,6 +21,12 @@ Desired output:
 - post url
 - post type (video/pictures/text)
 
+How to get cookies?
+- Install [EditThisCookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=en) extension
+- Login to facebook.com using your credentials
+- Download the cookies as textfile
+- Save the textfile in the output folder
+
 Project status (Updated:10-Mac-2022)
 - Unable to extract mass amount of post & unable to retrieved certain fields
 - Did not work as what documentation promised
