@@ -23,6 +23,10 @@ Desired output:
 
 How to get cookies?
 - Install [EditThisCookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=en) extension
-- Login to facebook.com using your credentials
+- Login to facebook.com using your credentials (Refer the Important notes below!)
 - Download the cookies as textfile
 - Save the textfile in the output folder
+
+Important notes!
+- Your FB account might be temporarily suspended if scrapped BIG amount of data,
+- To avoid this, you may create a temporary FB account for scrapping purpose.
