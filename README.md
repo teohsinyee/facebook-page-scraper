@@ -8,8 +8,8 @@ Problems:
 - So the most popular videos will have higher visibility
 - It makes us (the audience) hard to consume the spiritual materials
 
-- Facebook is a bit buggy, it did not record the 'watched-video'
-- So the audience needs to spend time and click in and watch the video again
+- Facebook is a bit buggy, it CAN'T tell the users has the video being 'watched before'.
+- So the audience needs to spend time and click in and watch the video again.
 
 Impact:
 - Find the patterns of which genre of talk will get most attention & reasons behind
@@ -26,5 +26,3 @@ How to get cookies?
 - Login to facebook.com using your credentials
 - Download the cookies as textfile
 - Save the textfile in the output folder
-
-
