@@ -1,3 +1,5 @@
+Note: I will come back to this project asap as I am fully focusing in developing my internship project. Plus, this project is near completed and I just need to wrap it up nicely later.
+
 # facebook-page-scraper
 The purpose of creating the scraper is to get basic stats from
 https://www.facebook.com/ustazahasmaharun/
